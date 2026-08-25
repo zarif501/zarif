@@ -38,7 +38,7 @@ Building digital experiences with clean code, thoughtful design, and innovative 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🔗 Connect With Me!
+### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zarif-nazari-b17447336/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
