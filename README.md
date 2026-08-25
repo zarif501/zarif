@@ -16,7 +16,7 @@ Building digital experiences with clean code, thoughtful design, and innovative 
 🌱 &nbsp;I'm currently learning **Backend**  
 👯 &nbsp;I'm looking to collaborate on **Projects to build**  
  &nbsp;Pronouns: **He/him**  
-⚡ &nbsp;Fun fact: **I code to make my life easier!**
+⚡ &nbsp;Fun fact: **I code to make my life easier**
 
 ### 🛠️ Tech Stack
 
