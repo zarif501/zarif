@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=610&height=44&lines=tech%2C%20code%2C%20coffee;Computer%20engineer-Full%20stack%20developer" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me!
+### 🚀 About Me
 
 Building digital experiences with clean code, thoughtful design, and innovative solutions.
 
