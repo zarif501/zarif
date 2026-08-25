@@ -2,7 +2,7 @@
   <a href="https://github.com/zarif501">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Zarif%20Nazari" alt="Hello! I&#39;m Zarif Nazari" />
   </a>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=610&height=44&lines=tech%2C%20code%2C%20coffee;Computer%20engineer-Full%20stack%20developer" alt="Typing headlines" />
@@ -38,7 +38,7 @@ Building digital experiences with clean code, thoughtful design, and innovative 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🔗 Connect With Me
+### 🔗 Connect With Me!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zarif-nazari-b17447336/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
