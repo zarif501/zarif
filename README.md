@@ -1,4 +1,4 @@
-
+<p align="center">
   <a href="https://github.com/zarif501">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Zarif%20Nazari" alt="Hello! I&#39;m Zarif Nazari" />
   </a>
