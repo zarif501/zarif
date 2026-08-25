@@ -10,7 +10,7 @@
 
 ### 🚀 About Me!
 
-Building digital experiences with clean code, thoughtful design, and innovative solutions.
+Building digital experiences with clean code, thoughtful design, and innovative solutions...
 
 🔭 &nbsp;I'm currently working on **Testing, System design**  
 🌱 &nbsp;I'm currently learning **Backend**  
